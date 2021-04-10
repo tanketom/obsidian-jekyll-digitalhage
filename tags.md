@@ -1,7 +1,7 @@
 ---
 layout: post
-title: By Tags
-permalink: /tags/
+title: Kategoriar
+permalink: /kategoriar/
 content-type: eg
 ---
 
