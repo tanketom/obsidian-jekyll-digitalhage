@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "about.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "index.md",
+    "about.md",
+    "dates.md",
+    "tags.md",
+    "README.md",
+    "notes.md",
     "_notes/How to use the special features.md",
+    "index.md",
     "_notes/Obsidian integration.md",
     "_notes/How-to-setup-this-site.md",
-    "_notes/how-markdown-is-rendered.md",
-    "assets/img/profile.png",
-    "assets/img/screenshot.png",
-    "assets/img/new notes pref.png",
-    "assets/img/fork_button.jpg",
-    "assets/img/favicon.png"
+    "_notes/how-markdown-is-rendered.md"
   ]
 }

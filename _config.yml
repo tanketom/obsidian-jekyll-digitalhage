@@ -32,7 +32,7 @@ sass:
 collections:
     notes:
       output: true
-      permalink: /notes/:title
+      permalink: /notat/:title
 
 toc:
   max_level: 3
