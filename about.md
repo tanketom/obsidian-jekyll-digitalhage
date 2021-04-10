@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Om
-permalink: /om/
+permalink: /about/
 content-type: eg
 ---
 
