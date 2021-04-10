@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "d98ed904b7931acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "146aa1172c6b05d4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fac90b88ab75824",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe0f73f34b68919f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b62f52f59b4971d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d548b99ff4f1adb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77cd32f204447f35",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c416fa2739f517f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9377d7f73f2026df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "index.md",
+    "_notes/How to use the special features.md",
+    "_notes/Obsidian integration.md",
+    "_notes/How-to-setup-this-site.md",
+    "_notes/how-markdown-is-rendered.md",
+    "assets/img/profile.png",
+    "assets/img/screenshot.png",
+    "assets/img/new notes pref.png",
+    "assets/img/fork_button.jpg",
+    "assets/img/favicon.png"
+  ]
+}
