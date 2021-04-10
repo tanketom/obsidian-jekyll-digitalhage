@@ -1,6 +1,6 @@
 title: notenote.link
-name: My linked notebook
-user_description: notenote.link
+name: Uneleg og skygt
+user_description: tanketom.no – min digitalhage
 notes_url: "https://notenote.link.netlify.app"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
@@ -43,7 +43,7 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /posts/:title
+      permalink: /blogg/:title
       content-type: post
   - scope:
       path: ""
